@@ -55,3 +55,9 @@ display:block;
 .even {
 color : #ffffff;
 }
+
+.footer {
+  font-family: 'libre baskerville bold',serif;
+  font-size: 4em;
+  color: #234899;
+}
